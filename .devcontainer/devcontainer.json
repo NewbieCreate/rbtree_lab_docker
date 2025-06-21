@@ -11,6 +11,7 @@
             "settings": {
                 "terminal.integrated.defaultProfile.linux": "bash",
                 "C_Cpp.default.includePath": [
+                    "${workspaceFolder}/rbtree_lab/src",
                     "/usr/include",
                     "/usr/local/include"
                 ],
